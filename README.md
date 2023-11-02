@@ -2,4 +2,4 @@
 
 This code implements our designed learning framework for pain assessment.
 
-<img src="result plot/arch.PNG"  width="600" height="300">
+<img src="plots/arch.png"  width="600" height="300">
