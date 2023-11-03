@@ -24,4 +24,4 @@ Install and run:
 1. git clone git@github.com:XiaominChang/Pain-Assessment.git 
 2. Add the path to directory Pain-Assessment to system environment PYTHONPATH
 3. cd Pain-Assessment/code
-4. python main-makespan.py
+4. python main_code.py
