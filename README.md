@@ -12,15 +12,15 @@ Download link: https://drive.google.com/file/d/1ZqGLY0nsWKECNPPO9IcIBMJVAqGni8ag
 
 Requirements:
 
-*Python 3.6
-*Pytorch 2.1
-*Scipy 1.11.0 
-*Numpy 1.15.3
-*Pandas 0.23.4
+* Python 3.6
+* Pytorch 2.1
+* Scipy 1.11.0 
+* Numpy 1.15.3
+* Pandas 0.23.4
 
 Install and run:
 
-1.git clone git@github.com:XiaominChang/Pain-Assessment.git 
-2.Add the path to directory Pain-Assessment to system environment PYTHONPATH
-3.cd Pain-Assessment/code
-4.python main-makespan.py
+1. git clone git@github.com:XiaominChang/Pain-Assessment.git 
+2. Add the path to directory Pain-Assessment to system environment PYTHONPATH
+3. cd Pain-Assessment/code
+4. python main-makespan.py
