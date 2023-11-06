@@ -19,9 +19,5 @@ Requirements:
 * Numpy 1.15.3
 * Pandas 0.23.4
 
-Install and run:
-
-1. git clone https://github.com/fedebotu/clone-anonymous-github.git  --url [https://anonymous.4open.science/r/Pain-Assessment-512C/]
-2. Add the path to directory Pain-Assessment to system environment PYTHONPATH
-3. cd Pain-Assessment/code
-4. python main_code.py
+###: Train the DUG-CORAL
+`main.ipynb`.
