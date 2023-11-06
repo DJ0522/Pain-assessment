@@ -21,7 +21,7 @@ Requirements:
 
 Install and run:
 
-1. git clone git@github.com:XiaominChang/Pain-Assessment.git 
+1. git clone git clone https://github.com/fedebotu/clone-anonymous-github.git  --url [https://anonymous.4open.science/r/Pain-Assessment-EC14]
 2. Add the path to directory Pain-Assessment to system environment PYTHONPATH
 3. cd Pain-Assessment/code
 4. python main_code.py
