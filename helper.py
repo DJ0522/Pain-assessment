@@ -114,10 +114,7 @@ def new_compute_mae_and_mse(model, data_loader):
             logits, probas = model(inputs)
             
             predicted_labels = proba_to_label(probas).float()
-            
-            print(predicted_labels)
-            print(labels)
-            
+                        
             num_examples += labels.size(0)
 
             mae += torch.sum(torch.abs(predicted_labels - labels))
