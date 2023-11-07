@@ -20,4 +20,4 @@ Requirements:
 * Pandas 0.23.4
 
 # Train the DUG-CORAL
-Refer to the codes in
+Refer to the codes in main.ipynb
