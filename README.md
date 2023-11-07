@@ -19,5 +19,5 @@ Requirements:
 * Numpy 1.15.3
 * Pandas 0.23.4
 
-###: Train the DUG-CORAL
-`main.ipynb`.
+# Train the DUG-CORAL
+Refer to the codes in
